@@ -1,0 +1,8 @@
+## United States of America
+
+ * Population: 329 M (Wikipedia, 2020 estimate)  
+ * Death rate: 8.2 / K (Wikipedia, 2018 estimate)
+
+## Some math:
+
+Estimated death / day average: ( pop * dRate ) / 365 = 7791
