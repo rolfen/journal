@@ -2,7 +2,7 @@
 
 Aprili 2020
 
- * [02](entries/02.04.20.md)—Average death rate in USA
+ * [02](entries/02.04.20.md)— Average death rate in USA
 
 March 2020
 
